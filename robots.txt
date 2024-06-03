@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://syrudne.github.io/sitemap/sitemap.txt
